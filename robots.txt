@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://fahtyn.cz
+Sitemap: https://fahtyn.cz/sitemap.xml
